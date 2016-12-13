@@ -26,16 +26,4 @@ function KillClock() {
    }
 }
 ```
-1
-https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png
-<img src="https://raw.githubusercontent.com/sharlag/Current-Time/ss.png" alt="Screenshot">
 ![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/ss.png)
-
-2
-![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/master/ss.png)
-![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/ss.png)
-<img src="https://raw.githubusercontent.com/sharlag/Current-Time/ss.png" alt="Screenshot">
-
-
-<img src="http://github.com/sharlag/Current-Time/ss.png" alt="Screenshot">
-<img src="https://github.com/sharlag/Current-Time/ss.png" alt="Screenshot">
