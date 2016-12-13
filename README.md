@@ -27,3 +27,5 @@ function KillClock() {
 }
 ```
 
+Current-Time/ss.png
+<img src="https://sharlag.github.io/Cat-Walk/images/catwalk.gif" alt="Image of moving cat">
