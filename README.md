@@ -26,10 +26,5 @@ function KillClock() {
    }
 }
 ```
-
-
-1
-
-2
 ![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/master/ss.png)
 
