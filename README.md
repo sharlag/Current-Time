@@ -27,5 +27,5 @@ function KillClock() {
 }
 ```
 
-
-<img src="https://sharlag.github.io/Current-Time/ss.png" alt="Screenshot">
+https://sharlag.github.io/Cat-Walk/
+<img src="https://github.com/sharlag/Current-Time/ss.png" alt="Screenshot">
