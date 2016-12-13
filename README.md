@@ -29,10 +29,8 @@ function KillClock() {
 
 
 1
-<img src="https://raw.githubusercontent.com/sharlag/Current-Time/ss.png" alt="Screenshot">
 ![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/ss.png)
 
 2
 ![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/master/ss.png)
-![Preview](https://raw.githubusercontent.com/sharlag/Current-Time/ss.png)
 
